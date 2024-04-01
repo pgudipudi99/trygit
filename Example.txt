@@ -1,2 +1,3 @@
 this is my sample folder for understanding of git.
 making changes to the file.
+updating changes
